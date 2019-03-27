@@ -1,0 +1,158 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "62169c70-50c1-11e9-b059-b355f14e3c51",
+  "foreignLayerStyles": [
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "C2DDC0C1-0FEC-4690-A620-90D371EA694C",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "62CB1AC6-A905-49D0-9E97-62501A91526B",
+        "name": "Color/Data Display/Aqua/Aqua Base",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.8313725490196078,
+                "green": 0.7372549019607844,
+                "red": 0
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "6DD21C09-891A-41A6-B9AB-FA9EA02A5B5A",
+      "sourceLibraryName": "Optimizely 2019",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "C2DDC0C1-0FEC-4690-A620-90D371EA694C",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "C40B9243-D1CA-4FD8-8BD9-6EB5220A9DA7",
+        "name": "Color/Data Display/Blue/Blue Base",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.9529411764705882,
+                "green": 0.5882352941176471,
+                "red": 0.1294117647058823
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "5A185629-DFD5-4334-B4AF-D4D754531721",
+      "sourceLibraryName": "Optimizely 2019",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "C2DDC0C1-0FEC-4690-A620-90D371EA694C",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "68CAB484-ACC2-454F-88E9-490B9D9BDCDA",
+        "name": "Color/Data Display/Green/Green Base",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3137254901960784,
+                "green": 0.6862745098039216,
+                "red": 0.2980392156862745
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "27547915-6947-4DDB-9B3B-33AFCA2214A6",
+      "sourceLibraryName": "Optimizely 2019",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "53.2",
+    "build": 72643,
+    "version": 116
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
