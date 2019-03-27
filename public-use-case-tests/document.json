@@ -168,6 +168,43 @@
       "remoteStyleID": "42DC1CB4-7F11-4752-A0E1-25F45067C96F",
       "sourceLibraryName": "Optimizely 2019",
       "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignLayerStyle",
+      "libraryID": "C2DDC0C1-0FEC-4690-A620-90D371EA694C",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "FF87757A-116B-448B-B6BE-BE1A8C8AE32A",
+        "name": "Color/Data Display/Orange/Orange Base",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "fills": [
+            {
+              "_class": "fill",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0,
+                "green": 0.596078431372549,
+                "red": 1
+              },
+              "fillType": 0,
+              "isEnabled": true,
+              "noiseIndex": 0,
+              "noiseIntensity": 0,
+              "patternFillType": 1,
+              "patternTileScale": 1
+            }
+          ],
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "62B09D0B-7CEF-4DA4-A016-3223E81211CC",
+      "sourceLibraryName": "Optimizely 2019",
+      "symbolPrivate": false
     }
   ],
   "foreignSymbols": [
